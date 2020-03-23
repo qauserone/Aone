@@ -1,0 +1,34 @@
+[INFO   |2020-02-24 14:35:03,878] log       :37 | create_log         | The log is in /home/devuser/Desktop/bkp/screenshots/2020-02-24/Login/143503/Login
+[INFO   |2020-02-24 14:35:03,879] Browser   :23 | open_chrome        | Open Chrome browser
+[INFO   |2020-02-24 14:35:08,025] Browser   :184| maximize_screen    | Maximize the screen of browser
+[INFO   |2020-02-24 14:35:08,965] Browser   :202| set_url            | go to url: file:///home/devuser/Desktop/bkp/html/index.html
+[INFO   |2020-02-24 14:35:10,698] Search    :30 | visibility_element | The element //*[@id="contact"]/h3 was found
+[INFO   |2020-02-24 14:35:10,900] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/h3
+[INFO   |2020-02-24 14:35:11,125] isub      :58 | verify_element     | Verify: //*[@id="contact"]/h3
+[INFO   |2020-02-24 14:35:12,078] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:12,079] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:12,296] Keyboard  :94 | clear              | The content of the element {} is deleted
+[INFO   |2020-02-24 14:35:12,297] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:13,578] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:13,579] isub      :77 | write              | Input "userX" in //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:14,517] Search    :30 | visibility_element | The element //*[@id="end_button"] was found
+[INFO   |2020-02-24 14:35:14,606] Js        :50 | go_to_xpath        | Scroll to the element //*[@id="end_button"]
+[INFO   |2020-02-24 14:35:15,488] Search    :30 | visibility_element | The element //*[@id="end_button"] was found
+[INFO   |2020-02-24 14:35:15,662] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="end_button"]
+[INFO   |2020-02-24 14:35:15,975] isub      :58 | verify_element     | Verify: //*[@id="end_button"]
+[INFO   |2020-02-24 14:35:17,675] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:17,676] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:17,967] Keyboard  :94 | clear              | The content of the element {} is deleted
+[INFO   |2020-02-24 14:35:17,968] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:19,254] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:19,258] isub      :77 | write              | Input "userX" in //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:20,161] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:20,162] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:20,326] Keyboard  :94 | clear              | The content of the element {} is deleted
+[INFO   |2020-02-24 14:35:20,327] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:21,622] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:21,624] isub      :77 | write              | Input "password" in //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:22,534] Search    :30 | visibility_element | The element //*[@id="contact"]/fieldset[1]/input was found
+[INFO   |2020-02-24 14:35:22,709] Search    :77 | search_element_by  | Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:22,939] isub      :58 | verify_element     | Verify: //*[@id="contact"]/fieldset[1]/input
+[INFO   |2020-02-24 14:35:23,103] Browser   :139| close_browser      | Close browser

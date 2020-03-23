@@ -1,0 +1,34 @@
+[32mINFO    [0m src.utils.Log:log.py:37 The log is in /home/devuser/Desktop/bkp/screenshots/2020-02-24/Login/143503/Login
+[32mINFO    [0m src.utils.Log:Browser.py:23 Open Chrome browser
+[32mINFO    [0m src.utils.Log:Browser.py:184 Maximize the screen of browser
+[32mINFO    [0m src.utils.Log:Browser.py:202 go to url: file:///home/devuser/Desktop/bkp/html/index.html
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/h3 was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/h3
+[32mINFO    [0m src.utils.Log:isub.py:58 Verify: //*[@id="contact"]/h3
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Keyboard.py:94 The content of the element {} is deleted
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:isub.py:77 Input "userX" in //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="end_button"] was found
+[32mINFO    [0m src.utils.Log:Js.py:50 Scroll to the element //*[@id="end_button"]
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="end_button"] was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="end_button"]
+[32mINFO    [0m src.utils.Log:isub.py:58 Verify: //*[@id="end_button"]
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Keyboard.py:94 The content of the element {} is deleted
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:isub.py:77 Input "userX" in //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Keyboard.py:94 The content of the element {} is deleted
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:isub.py:77 Input "password" in //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Search.py:30 The element //*[@id="contact"]/fieldset[1]/input was found
+[32mINFO    [0m src.utils.Log:Search.py:77 Search elemento by xpath with value //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:isub.py:58 Verify: //*[@id="contact"]/fieldset[1]/input
+[32mINFO    [0m src.utils.Log:Browser.py:139 Close browser
