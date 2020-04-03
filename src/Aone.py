@@ -43,9 +43,12 @@ class Aone(Allure_driver, Browser, Errors, Image, Js, Keyboard, log, Mouse, Sear
     @allure.step
     def visibility_element(self, xpath):
         if self.visibility(xpath):
-            self.highlight(xpath)
+            # self.highlight(xpath)
+            self.screenshot()
+            return True
         else:
             self.screenshot()
+            return False
 
     @allure.step
     def select_element(self, xpath, to=5):

@@ -23,8 +23,6 @@ class Image():
         name = self.path + self.gen_id() + ext
         self.driver.save_screenshot(name)
         self.screenshot_allure()
-        self.log.info(name)
-        self.log.info('screenshot')
         self.log.info(MsgImage.MSG_SCREENSHOT.format(name))
 
     def screenshot_allure(self):

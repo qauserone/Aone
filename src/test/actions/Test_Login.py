@@ -1,6 +1,6 @@
 import unittest
-from src.actions.Login import Login
-from src.constants.Environment import Environment
+from src.act.common.Login import Login
+from src.utils.my_constants.html.Environment import Environment
 
 
 

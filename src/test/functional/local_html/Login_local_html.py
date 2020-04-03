@@ -1,4 +1,4 @@
-from src.actions.common.Login import Login
+from src.act.common.Login import Login
 from src.constants.Environment import Environment
 from src.test.functional.local_html.po.poLogin import poLogin
 from src.test.functional.local_html.po.poLogin_target import poLogin_target

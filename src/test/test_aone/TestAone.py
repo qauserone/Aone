@@ -4,7 +4,7 @@ from src.Aone import Aone
 from src.utils.my_constants.localhost.Environment import Environment
 
 
-class Test_isub(unittest.TestCase, Aone):
+class TestAone(unittest.TestCase, Aone):
 
 
     @allure.step

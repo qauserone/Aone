@@ -1,9 +1,6 @@
 import allure
 from src.Aone import Aone
-from src.test.functional.local_html.po.poLogin import poLogin
-from src.test.functional.local_html.po.poLogin_target import poLogin_target
-from src.utils.my_constants.localhost.Environment import Environment
-from src.utils.my_constants.localhost.Users import Users
+
 
 class Login(Aone):
 
@@ -35,8 +32,3 @@ class Login(Aone):
     @allure.step
     def verify_element_target(self, xpath):
         self.select_element(xpath)
-
-
-# a = Login()
-# a.login(Environment.URL_LOCALHOST,Users.USER_DEFAULT, Users.PASSW, poLogin.INPUT_USER,poLogin.INPUT_PASSW,poLogin.CMD, poLogin_target.TARGET)
-# a.close_browser()
